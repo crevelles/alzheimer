@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.cristobal.alzheimer.Splash"
+    >
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="centerCrop"
+        app:srcCompat="@drawable/lotte_meijer_142578" />
+
+    <TextView
+        android:id="@+id/idAlzhei"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="38dp"
+        android:layout_marginLeft="39dp"
+        android:layout_marginStart="39dp"
+        android:text="@string/tituloSplash1"
+        android:textColor="@android:color/white"
+        android:textSize="50sp" />
+
+    <TextView
+        android:id="@+id/idMer"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/idAlzhei"
+        android:layout_alignBottom="@+id/idAlzhei"
+        android:layout_toEndOf="@+id/idAlzhei"
+        android:layout_toRightOf="@+id/idAlzhei"
+        android:text="@string/tituloSplash2"
+        android:textColor="@android:color/holo_red_light"
+        android:textSize="50sp" />
+</RelativeLayout>

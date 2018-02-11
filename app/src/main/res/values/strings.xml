@@ -1,0 +1,113 @@
+<resources>
+    <string name="app_name">interfaZE</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="tituloSplash1">appzhei</string>
+    <string name="tituloSplash2">mer</string>
+    <string name="quienElige">¿Quién soy?</string>
+    <string name="dieta">dieta</string>
+    <string name="textoBTNdietas">dieta semanal</string>
+    <string name="title_activity_ejercicios">EjerciciosActivity</string>
+    <string name="tituloEligeEjercicios">ejercicios</string>
+    <string name="dieta1">Sabias Entre las frutas con alto nivel de antioxidantes se destacan las
+        ciruelas, pasas, moras, fresas, frambuesas, naranjas, uvas rojas, cerezas y arándanos o
+        blueberries</string>
+    <string name="dieta2">Los peces de aguas frías pueden contener tres ácidos de la variedad
+        omega-3: mero, caballa, salmón, trucha y atún.</string>
+    <string name="dieta3">Algunas variedades de nueces pueden ser una parte importante de su dieta:
+        almendras, pacanas (pecans) y la nuez común son una buena fuente de vitamina E,
+        un antioxidante</string>
+    <string name="dieta4">Tomar alimentos que aporten bastante energía: jalea real, miel, cacao,
+        bayas de goji, coco..</string>
+    <string name="dieta5">Consumir alimentos ricos en antioxidantes y vitaminas como ajo, aceite de
+        oliva, aguacate, nueces, fresas, frambuesas, kiwis, cítricos... </string>
+    <string name="dieta6">Recuerda que debe beber suficientes líquidos para mantenerse hidratado
+        en todo momento</string>
+    <string name="dieta7">cómo y con quién los comemos, ya que es muy importante la forma de
+        elaboración y compartir las comidas con personas queridas y allegadas. </string>
+    <string name="dieta8">Dieta 8</string>
+    <string name="dieta9">Dieta 9</string>
+    <string name="title_activity_dieta_semanal">DietaSemanalActivity</string>
+
+    //Dietas y consejos
+
+    <string name="consejoComidas">Dada la dificultad de deglución que presentan los pacientes
+        con Alzheimer deben evitarse los alimentos difíciles de tragar, así como aquellos
+        alimentos que requieren el uso de cucharas o utensilios difíciles de manejar.</string>
+
+    <string name="TituloDietaComida1">menú Lunes</string>
+    <string name="textoMenu1">Desayuno: 1 café con leche, 1-2 magdalenas, 1 zumo de naranja.
+            Comida: Puré de zanahoria, albóndigas con tomate, manzana asada.\nMerienda: 1 yogur con
+            galletas.\nCena:Crema de calabacín, barritas de merluza, 1 cuajada.</string>
+
+    <string name="TituloDietaComida2">menú Martes</string>
+    <string name="textoMenu2">Desayuno: 1 café con leche, galletas de desayuno, 1 zumo de frutas.\n
+            Comida: Puré de lentejas, croquetas de bacalao, compota de pera.\n
+            Merienda:1 vaso de leche con pan migado.\n
+            Cena: Puré de patata, revuelto con queso, 1 kiwi maduro.</string>
+
+
+    <string name="TituloDietaComida3">menú Miercoles</string>
+    <string name="textoMenu3">Desayuno: 1 café con leche. Sobaos. 1 zumo de naranja.\n
+            Comida: Panaché de verduras, canelones de carne picada, 1 yogur natural.\n
+            Merienda: Macedonia de frutas.\n
+            Cena: Sopa de pasta, merluza a la romana, 1 flan.</string>
+
+
+    <string name="TituloDietaComida4">menú Jueves</string>
+    <string name="textoMenu4">Desayuno: Leche semidesnatada, pan con mantequilla y mermelada,
+            1 zumo de naranja. Media mañana: Requesón con membrillo.\n
+            Comida: Sopa de verduras, croquetas de bacalao, ensalada mixta, 1 manzana.\n
+            Cena: Crema de calabacín, boquerones fritos, 1 cuajada.</string>
+
+
+    <string name="TituloDietaComida5">menú Viernes</string>
+    <string name="textoMenu5">Desayuno: 1 café con leche, Cereales de desayuno (dejar que se ablanden),
+            1 zumo de frutas.\nComida: Ensalada de arroz, lenguado a la plancha con limón, 1 compota de pera.
+            \nMerienda: 1 café con leche y 1 magdalena.\n
+            Cena: crema de tomate, conejo guisado, 1 zumo de naranja.</string>
+
+
+    <string name="TituloDietaComida6">menú Sábado</string>
+    <string name="textoMenu6">Desayuno: 1 café con leche, 1 trozo de bizcocho, 1 kiwi.\n
+            Comida: Puré de legumbres, lasaña de berenjena, 1 compota de manzana y plátano.\n
+            Merienda: 1 yogur natural con miel.\n
+            Cena: Sopa de verduras, croquetas de jamón, 1 zumo de frutas.</string>
+
+
+    <string name="TituloDietaComida7">menú Domingo</string>
+    <string name="textoMenu7">Desayuno: 1 café con leche, Picatostas, 1 zumo de naranja.\n
+            Comida: Puré de espinacas. Ternera guisada con patatas a lo pobre. 1 yogur natural.\n
+            Merienda: 1 natilla.\n
+            Cena: Crema de champiñones, tortilla francesa, macedonia de frutas.</string>
+
+
+    //ventana ejercicios
+    <string name="tituloCongnitiva">Estimulación cognitiva</string>
+    <string name="tituloGimnasia">Ejercicios gimnasia</string>
+    <string name="ejerciciosMente">Desde hace tiempo se conocen los beneficios de la estimulación
+        cognitiva y su importancia en el tratamiento y en la prevención de la demencia.
+        Con ella se busca poder mantener las funciones cognitivas el mayor tiempo posible y así
+        mejorar la calidad de vida de los mayores.</string>
+
+    <string name="ejerciciosGimnasia">Varios estudios han mostrado una asociación positiva entre
+        la actividad física y el funcionamiento cognitivo en personas mayores.
+        Uno de los mecanismos por los cuales la actividad física puede ser beneficiosa para
+        la cognición es que dicha actividad estimula factores tróficos y el crecimiento neuronal,
+        posiblemente proporcionando una reserva contra la degeneración y la demencia</string>
+
+    
+    //Botones técnicas
+    <string name="btnTecnicasMemoria">tecnicas para mejorar memoria</string>
+    <string name="btnTecnicasEstimul">tecnicas para mejorar orientacion</string>
+    <string name="btnTecnicasLengua">tecnicas para mejorar el lenguaje</string>
+    <string name="btnTecnicasgnosias">tecnicas para mejorar la gnosias</string>
+    <string name="btnTecnicasPraxias">tecnicas para mejorar las praxias</string>
+    <string name="textoIntroTecnicas">Se debe adoptar una actitud activa a la hora de estimular
+        al enfermo de Alzheimer. Existen sencillos ejercicios, tanto físicos como mentales,
+        que contribuyen a frenar el empeoramiento de las capacidades cognitivas. Con ello,
+        se consigue, entre otras cosas, mantener capacidades mentales, mejorar el rendimiento
+        funcional y cognitivo o incrementar la autonomía personal en las actividades diarias.</string>
+
+
+</resources>

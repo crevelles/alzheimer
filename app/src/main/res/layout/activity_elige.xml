@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.cristobal.alzheimer.EligeActivity">
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:scaleType="centerCrop"
+        app:srcCompat="@drawable/collin_hardy_465196" />
+
+    <TextView
+        android:id="@+id/idQuien"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginEnd="62dp"
+        android:layout_marginRight="62dp"
+        android:layout_marginTop="78dp"
+        android:text="@string/quienElige"
+        android:textColor="@android:color/white" />
+
+    <TextView
+        android:id="@+id/idQuieroAyudar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="177dp"
+        android:layout_marginEnd="23dp"
+        android:layout_marginRight="23dp"
+        android:layout_toLeftOf="@+id/idQuien"
+        android:layout_toStartOf="@+id/idQuien"
+        android:onClick="ventanaDieta"
+        android:text="@string/dieta"
+        android:textColor="@android:color/white" />
+
+    <TextView
+        android:id="@+id/idEjercicios"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/idQuieroAyudar"
+        android:layout_alignParentBottom="true"
+        android:layout_alignStart="@+id/idQuieroAyudar"
+        android:layout_marginBottom="78dp"
+        android:onClick="ventanaEjercicios"
+        android:text="@string/tituloEligeEjercicios"
+        android:textColor="@android:color/background_light" />
+
+</RelativeLayout>
